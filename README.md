@@ -1,5 +1,5 @@
 There is RSSI data from ground to third floor of the R&I Park.
-Add the zip folder to the path and rename it accordingly to the unzip code 
+Add the "Localization_project-main.zip" folder to the path and rename it accordingly to the unzip code 
 There are four jupyter notebooks for each floor
 First run the unzip code, then the RSSI generation code and then the localization_2 code to get the MAE(Mean Absolute error) and MSE(Mean squared error)
 For the prediction of coordinates of continuous path, you can add the .csv file of continuous data to the path, which is of the A block of the ground floor
